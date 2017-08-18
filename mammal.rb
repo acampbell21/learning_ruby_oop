@@ -14,5 +14,3 @@ class Mammal #classes always start with CAPITAL
     raise "you must override this in a child class"
   end
 end
-
-Mammal.new
